@@ -1,308 +1,153 @@
-# Hey there, I'm Louis Gaillard 👋
-
-**Apprenant Dev IA** | En recherche d'alternance pour une première expérience professionnelle
-
-Passionné par l'intelligence artificielle, le data engineering et le développement full-stack. Je construis des pipelines de données scalables, des modèles ML performants et des applications intelligentes.
-
----
-
-## 🚀 About Me
-
-Je me spécialise dans la transformation de données brutes en insights exploitables, tout en développant des applications web robustes. Mon parcours couvre l'ensemble du cycle de vie de la data : ingestion, traitement, analyse, ML et visualisation.
-
-💼 **Actuellement :** Recherche d'alternance en Dev IA / Data Engineering / ML Engineering
-🎓 **Profil :** Développeur IA passionné par les technologies Big Data et l'apprentissage automatique
-🌍 **Contact :** [louis.gaillard@gmail.com](mailto:louis.gaillard@gmail.com)
-
----
-
-## 🛠️ Tech Stack
-
-### 💾 Big Data & Data Engineering
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-
-**Compétences :** MapReduce, Distributed Processing, ETL Pipelines, Data Lakes, Azure HDInsight
-
----
-
-### 🤖 Intelligence Artificielle & LLMs
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_AI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-
-**Technologies :** GPT-4 Vision, DeepSeek, Ollama, RAG (Retrieval-Augmented Generation), ChromaDB, pgvector, Azure OpenAI API, Text Embeddings (mxbai-embed-large, text-embedding-3-small)
-
----
-
-### 📊 Machine Learning & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
-**Bibliothèques :** Matplotlib, Seaborn, MLflow, XGBoost, Joblib
-**Modèles :** Random Forest, Decision Tree, Linear/Logistic Regression, MobileNetV2, ResNet50 (Transfer Learning)
-**Notebooks :** Jupyter, IPython
-
----
-
-### 🌐 Backend Development & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-**Expertise :** REST APIs, JWT Authentication, Uvicorn, SQLAlchemy, Alembic, Pydantic, SlowAPI (Rate Limiting), CORS, GZip Compression
-
----
-
-### 🕷️ Web Scraping & Data Collection
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat&logo=scrapy&logoColor=white)
-
-**Technologies :** Scrapy Spiders, itemadapter, Distributed Crawling, Competitive Intelligence Systems
-
----
-
-### 🗄️ Databases & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-**Compétences :** SQLAlchemy ORM, Vector Databases (ChromaDB, pgvector), MariaDB, Alembic Migrations
-
----
-
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-
-**Frameworks & Libs :** Alpine.js, FullCalendar.js, Heroicons, PostCSS, Autoprefixer, Vite, Turbopack, Axios, Lodash
-
----
-
-### ☁️ Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-**Services Cloud :** Azure Blob Storage, Azure Vision API (OCR), Azure Container Apps, Azure HDInsight
-**DevOps :** Docker Compose, Git, GitHub
-
----
-
-### 🧪 Testing & Quality
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-
-**Outils :** pytest, pytest-asyncio, pytest-cov, pytest-django, httpx, PHPUnit, Mockery, Black, Ruff, Laravel Pint, Coverage
-
----
-
-### 🏗️ Architectures & Patterns
-- **Clean Architecture**
-- **Hexagonal Architecture**
-- **Domain-Driven Design (DDD)**
-- **Repository Pattern**
-- **Dependency Injection**
-- **MVC (Model-View-Controller)**
-
----
-
-## 📊 Projets Phares
-
-### 🔥 Big Data & Data Engineering
-
-#### [PySpark Data Processing Tutorial](https://github.com/lougail/pyspark-data-processing-tutorial)
-Tutorial interactif complet pour apprendre Apache Spark avec Python
-- 📚 **69 cellules Jupyter interactives** - Progression du niveau débutant à avancé
-- 🧹 **Pipelines de nettoyage de données** - Gestion de problèmes de qualité réels
-- 📈 **Stratégies d'agrégation multiples** - DataFrame API et Spark SQL
-- 💾 **Formats de sortie** - CSV, Parquet pour usage production
-- ⚡ **RDD operations** - Transformations et actions bas niveau
-- 🎯 **Stack :** PySpark 3.5.3, Jupyter Notebook, NumPy, Pandas
-
-#### [Hadoop MapReduce Exercises](https://github.com/lougail/hadoop-mapreduce-exercises)
-Exercices de traitement distribué avec Hadoop sur Azure HDInsight
-- 🗺️ **Paradigme MapReduce** - Streaming Python avec Hadoop
-- ☁️ **Déploiement cloud** - Azure HDInsight avec WASBS (Azure Blob Storage)
-- 📊 **Calculs analytiques** - Salaire moyen et expérience par département
-- 🎓 **Focus pédagogique** - Compréhension des patterns de calcul distribué
-- 🎯 **Stack :** Hadoop Streaming, Python, Azure Cloud
-
----
-
-### 🤖 Intelligence Artificielle & LLMs
-
-#### [Gaming Advisor](https://github.com/lougail/Gaming-advisor)
-Système de recommandation de jeux vidéo alimenté par IA
-- 🎮 **Recommandations intelligentes** - Suggestions personnalisées basées sur les préférences
-- 🤖 **Intégration LLM** - Utilisation d'OpenAI pour l'analyse
-- 🎯 **Stack :** Python, LangChain, OpenAI API
-
-#### [AI Agent with LangChain](https://github.com/lougail/ai-agent-with-langchain)
-Agent IA dédié aux droits juridiques utilisant LangChain
-- 🤖 **Architecture RAG** - Retrieval-Augmented Generation pour réponses précises
-- 📚 **Base de connaissances** - Vectorisation de documents juridiques
-- 💬 **Interface conversationnelle** - Chat interactif avec l'utilisateur
-- 🎯 **Stack :** LangChain, ChromaDB, OpenAI, DeepSeek, Ollama, Streamlit
-
----
-
-### 📊 Machine Learning & Data Science
-
-#### [Prédicteur de Prix Immobilier](https://github.com/lougail/predicteur_prix_immobilier)
-Modèle ML pour l'estimation des prix immobiliers en France
-- 🏠 **Modèles de régression** - Prédiction de prix avec plusieurs algorithmes
-- 📊 **Feature engineering** - Extraction et transformation de features sur données DVF 2022
-- 🔍 **Analyse exploratoire** - Visualisations avec Matplotlib et Seaborn
-- 📈 **Évaluation de modèles** - Comparaison des performances (RMSE, R²)
-- 🎯 **Stack :** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter
-
-#### [Classification d'Images Médicales](https://github.com/lougail/TL_classification_images_medicales_v2)
-Deep learning pour l'analyse d'images médicales via transfer learning
-- 🧠 **Transfer Learning** - MobileNetV2 et ResNet50 pré-entraînés
-- 🏥 **Classification d'images médicales** - Détection de pathologies
-- 📊 **Optimisation de modèles** - Fine-tuning et évaluation
-- 🎯 **Stack :** TensorFlow, Keras, Jupyter, NumPy, Matplotlib
-
-#### [Breast Cancer Detection](https://github.com/lougail/LouisG_ML_challenge_logistic_regression_breast_cancer_wisconsin)
-Modèle de régression logistique pour la détection du cancer du sein (Wisconsin Dataset)
-- 🔬 **Classification binaire** - Détection tumeurs bénignes/malignes
-- 📈 **Métriques de performance** - Accuracy, Precision, Recall, F1-Score
-- 🎯 **Stack :** Scikit-learn, Logistic Regression, Pandas, Matplotlib
-
----
-
-### 🕷️ Web Scraping & APIs
-
-#### [Système de Veille Concurrentielle](https://github.com/lougail/Web_scraping_project)
-Système automatisé de web scraping avec Scrapy et FastAPI
-- 🕸️ **Scrapy Spiders** - Crawling distribué multi-sources
-- ⚡ **Backend FastAPI** - API REST pour servir les données collectées
-- 📊 **Intelligence compétitive** - Collecte et analyse automatisées
-- 🗄️ **Stockage** - SQLAlchemy + SQLite pour persistance
-- 🧪 **Tests** - pytest pour qualité du code
-- 🎯 **Stack :** Scrapy, FastAPI, SQLAlchemy, Pydantic, Uvicorn
-
-#### [Scrapy Project](https://github.com/lougail/Scrapy_project)
-Implémentation de framework de web scraping
-- 🔍 **Extraction de données** - Multi-sources avec pipelines personnalisés
-- 📦 **Architecture Scrapy** - Spiders, Items, Pipelines
-- 🎯 **Stack :** Scrapy, Python
-
----
-
-### 🌐 Développement Full-Stack
-
-#### [GitHub Users API](https://github.com/lougail/github-users-api)
-API REST pour données utilisateurs GitHub avec authentification
-- 🔐 **Authentification JWT** - Sécurisation des endpoints
-- 📡 **Architecture RESTful** - Best practices et conventions
-- 🚀 **Documentation automatique** - Swagger UI intégré
-- 🎯 **Stack :** FastAPI, Pydantic, JWT (python-jose), Uvicorn
-
-#### [Django Booking System](https://github.com/lougail/django-coach-rdv)
-Plateforme de réservation complète avec gestion des rôles
-- 📅 **Système de rendez-vous** - Calendrier interactif (FullCalendar.js)
-- 👥 **Contrôle d'accès basé sur les rôles** - Coachs et clients
-- 🔐 **Authentification utilisateur** - Gestion de sessions Django
-- 🎨 **Interface moderne** - Tailwind CSS responsive
-- 🎯 **Stack :** Django 5.2, Tailwind CSS, FullCalendar.js, WhiteNoise, PostgreSQL
-
-#### [Restaurant Website](https://github.com/lougail/restaurant)
-Site web de gestion de restaurant avec Laravel
-- 🍽️ **Gestion de menu** - CRUD complet avec interface admin
-- 📅 **Système de réservations** - Booking en ligne
-- 🔐 **Authentification** - Laravel Sanctum
-- 🎯 **Stack :** Laravel 9, PHP 8.1, Blade, MySQL, Tailwind CSS, Vite
-
----
-
-## 📈 GitHub Stats
-
-![Louis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lougail&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lougail&layout=compact&theme=tokyonight&langs_count=8)
-
----
-
-## 🎯 Domaines d'Expertise
-
-### 💾 Data Engineering
-- Pipelines ETL / ELT
-- Traitement distribué (Spark, Hadoop)
-- Data Lakes et Data Warehouses
-- MapReduce et optimisation de performance
-
-### 🤖 Intelligence Artificielle
-- Intégration de LLMs (GPT-4, DeepSeek, Ollama)
-- Architecture RAG (Retrieval-Augmented Generation)
-- Vector Databases (ChromaDB, pgvector)
-- Agents conversationnels intelligents
-
-### 📊 Machine Learning
-- Apprentissage supervisé (classification, régression)
-- Deep Learning et Transfer Learning
-- Feature Engineering et sélection de modèles
-- MLflow et gestion d'expériences
-
-### 🕷️ Web Scraping
-- Extraction de données à grande échelle
-- Scrapy framework et spiders distribués
-- Intelligence compétitive automatisée
-
-### 🌐 Développement Full-Stack
-- APIs RESTful (FastAPI, Django)
-- Authentification JWT et sécurité
-- Architectures microservices
-- Interfaces modernes (React, Next.js, Tailwind)
-
----
-
-## 🌱 Actuellement en Apprentissage
-
-- 🚀 Optimisation avancée de Spark et tuning de performance
-- 📡 Streaming temps réel avec Kafka et Spark Streaming
-- 🤖 MLOps : déploiement et monitoring de modèles ML en production
-- ☁️ Architectures cloud-native (Azure, AWS)
-- 🦜 Agents IA avancés avec LangChain et LangGraph
-
----
-
-## 📫 Me Contacter
-
-- 📧 **Email :** [louis.gaillard@gmail.com](mailto:louis.gaillard@gmail.com)
-- 💼 **LinkedIn :** [linkedin.com/in/louis-gaillard-6b575a12b](https://linkedin.com/in/louis-gaillard-6b575a12b)
-- 🐙 **GitHub :** [github.com/lougail](https://github.com/lougail)
-- 💬 **Disponible pour :** Alternance en Dev IA / Data Engineering / ML Engineering
-
----
-
-## 💡 Fun Facts
-
-- 🎮 Développé un système de recommandation de jeux avec IA
-- 🤖 Passionné par les agents IA et l'automatisation intelligente
-- 📚 Contributeur open-source et amateur d'éducation tech
-- 🚀 Toujours à la recherche de nouveaux défis techniques
-- 🧠 Apprendre de nouvelles technologies est mon hobby favori
-
----
-
 <div align="center">
 
-### ⭐️ Open to collaboration on exciting AI and Data projects!
+# Bonjour, je suis Louis Gaillard 👋
 
-**Let's build intelligent systems together** 🚀
+**Développeur IA en alternance chez [Hello Mira](https://www.hello-mira.com)**<br>
+RAG et agents LLM · Machine learning en production · Data engineering
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/louis-gaillard-6b575a12b)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:louis.gaillard@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/lougail)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/louis-gaillard-6b575a12b)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louis.gaillard94@gmail.com)
 
 </div>
+
+---
+
+## 🙋 À propos
+
+Je construis des applications d'IA pensées pour la production : assistants conversationnels (RAG, agents LLM), modèles de machine learning servis par API, pipelines de données. Ce qui me plaît, c'est d'emmener un modèle du notebook jusqu'à un service qui tourne, avec les tests, la CI/CD et le monitoring qui vont avec.
+
+- 💼 **Aujourd'hui** : développeur IA en alternance chez Hello Mira, startup lilloise qui construit une plateforme pour les voyageurs et les nomades digitaux. J'y développe des fonctionnalités d'IA utilisées en production.
+- 🎓 **Formation** : Développeur en intelligence artificielle chez Simplon Hauts-de-France, à Lille. Je passe le titre RNCP37827 en janvier 2027.
+- 📫 **Me joindre** : [LinkedIn](https://www.linkedin.com/in/louis-gaillard-6b575a12b) ou [louis.gaillard94@gmail.com](mailto:louis.gaillard94@gmail.com)
+
+## 🔭 En ce moment
+
+- 🏛️ **ParlIA Mini**, mon projet de certification : à partir du titre et du texte d'une question écrite, il propose au collaborateur d'un sénateur les trois ministères les plus probables pour y répondre. Je le construis de bout en bout sur les données publiques du Sénat : collecte, base SQL, API de données, modèle, API du modèle, application web et tests. Le dépôt sera public avant la remise.
+- 📡 **Ma veille tourne toute seule** : mon [bot n8n](https://github.com/lougail/veille-tech-n8n) lit 61 sources deux fois par jour et publie les meilleurs articles sur Discord.
+- 🛠️ **Je code avec des agents** (Claude Code) et je construis mes propres outils autour, comme ce [tableau de bord de suivi de projets](https://github.com/lougail/claude-toolkit-dashboard).
+
+## 🧭 Ce que je sais faire
+
+| Compétence | Où le voir |
+|---|---|
+| Construire un assistant LLM : RAG, agent avec outils, vision | [Chatbot RNCP](https://github.com/lougail/chatbot-rncp-dev-ia) · [Flight Platform](https://github.com/lougail/hello-mira-flight-platform) · [Gaming Advisor](https://github.com/lougail/Gaming-advisor) · [Agent IA citoyen](https://github.com/lougail/ai-agent-with-langchain) |
+| Entraîner, évaluer et comparer des modèles | [Priorisation des secours](https://github.com/lougail/accidents_routiers) · [Pneumonie sur radiographies](https://github.com/lougail/TL_classification_images_medicales_v2) · [Prix immobilier](https://github.com/lougail/predicteur_prix_immobilier) |
+| Servir un modèle par API et le livrer | [Prix immobilier](https://github.com/lougail/predicteur_prix_immobilier) (API FastAPI) · [Priorisation des secours](https://github.com/lougail/accidents_routiers) (API, CI/CD, images Docker publiées sur GHCR) |
+| Superviser une application | [Priorisation des secours](https://github.com/lougail/accidents_routiers) (Prometheus, Grafana, alertes, tests de charge) · [Flight Platform](https://github.com/lougail/hello-mira-flight-platform) (Prometheus, Grafana) |
+| Modéliser et transformer des données | [Churn Olist](https://github.com/lougail/brief-olist-churn) (PostgreSQL) · [NYC Taxi](https://github.com/lougail/brief-snowflake-dbt-nyc-taxi) (Snowflake, dbt) · [PySpark](https://github.com/lougail/pyspark-data-processing-tutorial) · [Hadoop](https://github.com/lougail/hadoop-mapreduce-exercises) |
+| Collecter des données | Scraping : [veille concurrentielle](https://github.com/lougail/Web_scraping_project) · API publiques : [Flight Platform](https://github.com/lougail/hello-mira-flight-platform) · flux RSS : [veille tech](https://github.com/lougail/veille-tech-n8n) |
+| Automatiser | Workflows [n8n](https://github.com/lougail/veille-tech-n8n) · GitHub Actions · Docker Compose |
+
+## 🚀 Projets phares
+
+### 🎓 [Chatbot RNCP Dev IA](https://github.com/lougail/chatbot-rncp-dev-ia)
+*« Mon projet couvre-t-il le référentiel ? » Le chatbot répond, citations à l'appui.*
+
+- RAG de bout en bout : le référentiel PDF de 62 pages est découpé en morceaux de 512 caractères, vectorisé avec `mistral-embed` et stocké dans Qdrant ; Mistral Small génère la réponse
+- Classe chaque compétence en couverte, à approfondir ou manquante, et affiche ses sources
+- Seuil de similarité : une question hors sujet reçoit une réponse vide plutôt qu'une invention
+- Interface Chainlit en streaming, tests pytest, lint Ruff, CI GitHub Actions, image Docker multistage d'environ 150 Mo
+
+`Python 3.13` `LangChain` `Mistral` `Qdrant` `Chainlit` `Docker` `uv`
+
+### 🚑 [Priorisation des secours](https://github.com/lougail/accidents_routiers)
+*Estimer la gravité d'un accident dès l'appel d'urgence, pour envoyer les bons moyens.*
+
+- Données BAAC 2021-2024 et quatre modèles CatBoost, un par niveau d'information disponible pendant l'appel : le ROC-AUC monte de 0,74 à 0,82, avec un rappel autour de 0,8
+- API FastAPI qui choisit le modèle selon les champs reçus, interface Streamlit, base PostgreSQL
+- CI/CD GitHub Actions (tests, build, release) et images Docker publiées sur GHCR
+- Monitoring Prometheus et Grafana (4 tableaux de bord, 5 règles d'alerte), tests de charge Locust jusqu'à 200 utilisateurs simultanés
+
+`CatBoost` `FastAPI` `Streamlit` `PostgreSQL` `Docker` `Prometheus` `Grafana` `Locust`
+
+### ✈️ [Flight Platform](https://github.com/lougail/hello-mira-flight-platform)
+*Des informations de vols en temps réel, et un assistant qui répond en langage naturel.*
+
+- Quatre microservices FastAPI : gateway, aéroports, vols et assistant
+- La gateway protège l'API Aviationstack : cache MongoDB de 5 minutes, quota de 10 000 appels par mois, circuit breaker et fusion des requêtes identiques, soit environ 70 % d'appels en moins
+- Assistant LangGraph et Mistral avec 7 outils, qui répond dans la langue de la question
+- Monitoring Prometheus et Grafana, interface Streamlit avec authentification Supabase, le tout sous Docker Compose
+
+`FastAPI` `MongoDB` `LangGraph` `Mistral` `Supabase` `Prometheus` `Docker`
+
+### 📡 [Veille tech automatisée](https://github.com/lougail/veille-tech-n8n)
+*61 sources lues pour moi, deux fois par jour.*
+
+- Workflow n8n de 34 nœuds, auto-hébergé sous Docker
+- Dédoublonnage, pré-filtre par mots-clés et texte complet récupéré avec Jina Reader
+- Mistral Small classe chaque article et lui donne une note de 1 à 10
+- Publication sur 6 canaux Discord thématiques, digest quotidien et hebdomadaire, alerte en cas de panne
+
+`n8n` `Mistral Small` `OpenRouter` `Jina Reader` `Discord` `Docker`
+
+### ❄️ [Pipeline NYC Taxi](https://github.com/lougail/brief-snowflake-dbt-nyc-taxi)
+*Un entrepôt de données propre et testé sur les courses des taxis new-yorkais.*
+
+- Snowflake en trois couches : RAW (brut), STAGING (nettoyé), FINAL (indicateurs)
+- Modèles dbt staging, intermediate et marts : résumé quotidien, analyse par zone, tendances horaires
+- Tests de schéma et 5 tests métier : pas de tarif négatif, départ avant arrivée, vitesse plausible…
+- Tableau de bord Evidence sur les tables finales : nombre de trajets, revenu moyen par course, distance moyenne
+
+`Snowflake` `dbt` `SQL` `Evidence`
+
+### 🛒 [Churn Olist](https://github.com/lougail/brief-olist-churn)
+*Préparer les données qui permettront de repérer les clients sur le départ.*
+
+- Environ 100 000 commandes e-commerce normalisées en 8 tables PostgreSQL 16, avec clés et contraintes
+- 5 anomalies de qualité corrigées, 9 indicateurs par client calculés avec 7 CTE et des window functions
+- Vue `v_customer_features`, index et vue matérialisée, tableau de bord Streamlit
+
+`PostgreSQL 16` `SQL avancé` `Docker` `Streamlit`
+
+## 🤝 Projets d'équipe
+
+### 🎲 [Gaming Advisor](https://github.com/lougail/Gaming-advisor)
+*Un assistant IA pour les jeux de société : une photo de la boîte, et il guide la mise en place et répond sur les règles.*
+
+- Analyse des photos avec GPT-4 Vision (Azure OpenAI) et OCR des règles, recherche dans les règles par RAG (pgvector)
+- API FastAPI en Clean Architecture (DDD), SQLAlchemy asynchrone, Alembic, JWT, traitements en arrière-plan avec Redis, stockage Azure Blob
+- Front Next.js 15, React 19, TypeScript et Tailwind CSS
+
+`GPT-4 Vision` `pgvector` `FastAPI` `Redis` `Azure` `Next.js`
+
+### ⚖️ [Agent IA citoyen](https://github.com/lougail/ai-agent-with-langchain)
+*Un assistant qui répond aux questions sur les droits sociaux et administratifs, à partir de documents officiels. Réalisé à trois pendant la formation Simplon.*
+
+- Agent LangChain avec des outils sur mesure : vérifier une éligibilité, résumer, simplifier
+- RAG sur des documents institutionnels (ChromaDB), mémoire de conversation, interface Streamlit
+- Fonctionne avec OpenAI, DeepSeek ou un modèle local via Ollama
+
+`LangChain` `ChromaDB` `OpenAI` `Ollama` `Streamlit`
+
+## 📚 Autres projets
+
+| Projet | Ce qu'il fait | Stack |
+|---|---|---|
+| [Prix immobilier](https://github.com/lougail/predicteur_prix_immobilier) | API qui estime le prix au m² à Lille et Bordeaux, à partir des ventes DVF 2022 | scikit-learn, XGBoost, FastAPI |
+| [Pneumonie sur radiographies](https://github.com/lougail/TL_classification_images_medicales_v2) | Compare MobileNetV2 et ResNet50 en transfer learning, expériences suivies dans MLflow | TensorFlow, Keras, MLflow |
+| [Cancer du sein](https://github.com/lougail/LouisG_ML_challenge_logistic_regression_breast_cancer_wisconsin) | Classe les tumeurs en bénignes ou malignes par régression logistique | scikit-learn |
+| [Veille concurrentielle](https://github.com/lougail/Web_scraping_project) | Collecte plus de 1 000 livres, garde l'historique des prix et du stock, les expose par API | Scrapy, FastAPI, SQLAlchemy |
+| [Tutoriel PySpark](https://github.com/lougail/pyspark-data-processing-tutorial) | Tutoriel interactif : DataFrames, Spark SQL, RDD, export Parquet | PySpark, Jupyter |
+| [Hadoop MapReduce](https://github.com/lougail/hadoop-mapreduce-exercises) | Calculs distribués en Python sur Azure HDInsight | Hadoop Streaming, Azure |
+| [Tableau de bord Claude Code](https://github.com/lougail/claude-toolkit-dashboard) | Suit mes projets menés avec Claude Code : état Git et CI, avancement des fonctionnalités, consommation de tokens | Next.js, TypeScript |
+| [GitHub Users API](https://github.com/lougail/github-users-api) | API REST sur des profils GitHub filtrés | FastAPI |
+| [Réservation de séances](https://github.com/lougail/django-coach-rdv) | Prise de rendez-vous en ligne entre un coach et ses clients, avec calendrier interactif | Django, FullCalendar, Tailwind CSS |
+| [Site de restaurant](https://github.com/lougail/restaurant) | Site web d'un restaurant | Laravel 9, PHP |
+
+## 🛠️ Stack technique
+
+| Domaine | Outils |
+|---|---|
+| **IA générative** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white) ![Mistral AI](https://img.shields.io/badge/Mistral%20AI-FA520F?style=flat&logo=mistralai&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white) ![Chainlit](https://img.shields.io/badge/Chainlit-F80061?style=flat) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
+| **Machine learning** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat) ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
+| **Back-end et API** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat&logo=scrapy&logoColor=white) |
+| **Données** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=black) |
+| **DevOps et qualité** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white) ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat&logo=ruff&logoColor=black) ![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat&logo=uv&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat) |
+| **Front-end** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |
+
+## 📈 Activité GitHub
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="Statistiques GitHub" height="165">
+  <img src="./profile/top-langs.svg" alt="Langages les plus utilisés" height="165">
+</p>
