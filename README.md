@@ -86,8 +86,9 @@ Je construis des applications d'IA pensées pour la production : assistants conv
 - Snowflake en trois couches : RAW (brut), STAGING (nettoyé), FINAL (indicateurs)
 - Modèles dbt staging, intermediate et marts : résumé quotidien, analyse par zone, tendances horaires
 - Tests de schéma et 5 tests métier : pas de tarif négatif, départ avant arrivée, vitesse plausible…
+- Tableau de bord Evidence sur les tables finales : nombre de trajets, revenu moyen par course, distance moyenne
 
-`Snowflake` `dbt` `SQL`
+`Snowflake` `dbt` `SQL` `Evidence`
 
 ### 🛒 [Churn Olist](https://github.com/lougail/brief-olist-churn)
 *Préparer les données qui permettront de repérer les clients sur le départ.*
@@ -147,6 +148,6 @@ Je construis des applications d'IA pensées pour la production : assistants conv
 ## 📈 Activité GitHub
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=lougail&show_icons=true&theme=tokyonight&hide_rank=true&hide=stars,issues,contribs&show=prs_merged" alt="Statistiques GitHub" height="165">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lougail&layout=compact&theme=tokyonight&langs_count=6&hide=jupyter%20notebook" alt="Langages les plus utilisés" height="165">
+  <img src="./profile/stats.svg" alt="Statistiques GitHub" height="165">
+  <img src="./profile/top-langs.svg" alt="Langages les plus utilisés" height="165">
 </p>
