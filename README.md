@@ -13,7 +13,7 @@ Je construis des applications d'IA pensées pour la production : assistants conv
 
 ## 🚀 Projets récents
 
-**[Chatbot RNCP Dev IA](https://github.com/lougail/chatbot-rncp-dev-ia)** · [démo en ligne](https://centau-chatbot-rncp-dev-ia.hf.space)<br>
+**[Chatbot RNCP Dev IA](https://github.com/lougail/chatbot-rncp-dev-ia)**<br>
 On lui décrit un projet, il indique quelles compétences du référentiel RNCP Dev IA sont couvertes, à approfondir ou manquantes, en citant le référentiel.<br>
 `LangChain` `Mistral` `Qdrant` `Chainlit` `Docker` `GitHub Actions`
 
