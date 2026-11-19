@@ -40,7 +40,7 @@ Je construis des applications d'IA pensées pour la production : assistants conv
 
 ## 🚀 Projets phares
 
-### 🎓 [Chatbot RNCP Dev IA](https://github.com/lougail/chatbot-rncp-dev-ia)
+### 🎓 [Chatbot RNCP Dev IA](https://github.com/lougail/chatbot-rncp-dev-ia) · [démo en ligne](https://centau-chatbot-rncp-dev-ia.hf.space)
 *« Mon projet couvre-t-il le référentiel ? » Le chatbot répond, citations à l'appui.*
 
 - RAG de bout en bout : le référentiel PDF de 62 pages est découpé en morceaux de 512 caractères, vectorisé avec `mistral-embed` et stocké dans Qdrant ; Mistral Small génère la réponse
