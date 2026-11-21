@@ -16,21 +16,21 @@ RAG et agents LLM · Machine learning en production · Data engineering
 
 Je construis des applications d'IA pensées pour la production : assistants conversationnels (RAG, agents LLM), modèles de machine learning servis par API, pipelines de données. Ce qui me plaît, c'est d'emmener un modèle du notebook jusqu'à un service qui tourne, avec les tests, la CI/CD et le monitoring qui vont avec.
 
-- 💼 **Aujourd'hui** : développeur IA en alternance chez Hello Mira, startup lilloise qui construit une plateforme pour les voyageurs et les nomades digitaux. J'y développe des fonctionnalités d'IA utilisées en production.
+- 💼 **Aujourd'hui** : développeur IA en alternance chez Hello Mira, startup lilloise qui construit une plateforme pour les voyageurs et les nomades digitaux. J'y travaille sur le back-end, le front web et mobile, les intégrations d'IA et les outils de l'équipe.
 - 🎓 **Formation** : Développeur en intelligence artificielle chez Simplon Hauts-de-France, à Lille. Je passe le titre RNCP37827 en janvier 2027.
 - 📫 **Me joindre** : [LinkedIn](https://www.linkedin.com/in/louis-gaillard-6b575a12b) ou [louis.gaillard94@gmail.com](mailto:louis.gaillard94@gmail.com)
 
 ## 🔭 En ce moment
 
 - 🏛️ **ParlIA Mini**, mon projet de certification : à partir du titre et du texte d'une question écrite, il propose au collaborateur d'un sénateur les trois ministères les plus probables pour y répondre. Je le construis de bout en bout sur les données publiques du Sénat : collecte, base SQL, API de données, modèle, API du modèle, application web et tests. Le dépôt sera public avant la remise.
-- 📡 **Ma veille tourne toute seule** : mon [bot n8n](https://github.com/lougail/veille-tech-n8n) lit 61 sources deux fois par jour et publie les meilleurs articles sur Discord.
-- 🛠️ **Je code avec des agents** (Claude Code) et je construis mes propres outils autour, comme ce [tableau de bord de suivi de projets](https://github.com/lougail/claude-toolkit-dashboard).
+- 📡 **Ma veille tourne toute seule** : mon [bot n8n](https://github.com/lougail/veille-tech-n8n) suit 77 flux RSS et les nouveaux modèles d'IA, regroupe les articles par sujet et publie un brief chaque matin sur Discord.
+- 🛠️ **Je code avec des agents** (Claude Code et Codex) et je construis mes propres outils autour, comme ce [tableau de bord de suivi de projets](https://github.com/lougail/claude-toolkit-dashboard).
 
 ## 🧭 Ce que je sais faire
 
 | Compétence | Où le voir |
 |---|---|
-| Construire un assistant LLM : RAG, agent avec outils, vision | [Chatbot RNCP](https://github.com/lougail/chatbot-rncp-dev-ia) · [Flight Platform](https://github.com/lougail/hello-mira-flight-platform) · [Gaming Advisor](https://github.com/lougail/Gaming-advisor) · [Agent IA citoyen](https://github.com/lougail/ai-agent-with-langchain) |
+| Construire un assistant LLM : RAG, agent avec outils | [Chatbot RNCP](https://github.com/lougail/chatbot-rncp-dev-ia) · [Flight Platform](https://github.com/lougail/hello-mira-flight-platform) |
 | Entraîner, évaluer et comparer des modèles | [Priorisation des secours](https://github.com/lougail/accidents_routiers) · [Pneumonie sur radiographies](https://github.com/lougail/TL_classification_images_medicales_v2) · [Prix immobilier](https://github.com/lougail/predicteur_prix_immobilier) |
 | Servir un modèle par API et le livrer | [Prix immobilier](https://github.com/lougail/predicteur_prix_immobilier) (API FastAPI) · [Priorisation des secours](https://github.com/lougail/accidents_routiers) (API, CI/CD, images Docker publiées sur GHCR) |
 | Superviser une application | [Priorisation des secours](https://github.com/lougail/accidents_routiers) (Prometheus, Grafana, alertes, tests de charge) · [Flight Platform](https://github.com/lougail/hello-mira-flight-platform) (Prometheus, Grafana) |
@@ -71,14 +71,14 @@ Je construis des applications d'IA pensées pour la production : assistants conv
 `FastAPI` `MongoDB` `LangGraph` `Mistral` `Supabase` `Prometheus` `Docker`
 
 ### 📡 [Veille tech automatisée](https://github.com/lougail/veille-tech-n8n)
-*61 sources lues pour moi, deux fois par jour.*
+*Les publications des grands labos d'IA, ce qui fait du bruit, et un brief chaque matin.*
 
-- Workflow n8n de 34 nœuds, auto-hébergé sous Docker
-- Dédoublonnage, pré-filtre par mots-clés et texte complet récupéré avec Jina Reader
-- Mistral Small classe chaque article et lui donne une note de 1 à 10
-- Publication sur 6 canaux Discord thématiques, digest quotidien et hebdomadaire, alerte en cas de panne
+- Workflow n8n de 59 nœuds, auto-hébergé sous Docker, dont 19 nœuds de code JavaScript versionnés et testés avec `npm test`
+- 77 flux RSS, dont 22 flux officiels de labos, plus les nouveaux modèles d'OpenRouter et de Hugging Face, Hacker News, Hugging Face Daily Papers, Lobsters et GitHub
+- Dédoublonnage sur 7 jours et regroupement des articles par sujet, puis Mistral Small 3.2 note chaque sujet et Mistral Large rédige les digests
+- Canaux Discord thématiques, brief du matin, bilan du dimanche et alertes critiques, pour environ 0,60 $ par mois
 
-`n8n` `Mistral Small` `OpenRouter` `Jina Reader` `Discord` `Docker`
+`n8n` `JavaScript` `Mistral` `OpenRouter` `Discord` `Docker`
 
 ### ❄️ [Pipeline NYC Taxi](https://github.com/lougail/brief-snowflake-dbt-nyc-taxi)
 *Un entrepôt de données propre et testé sur les courses des taxis new-yorkais.*
@@ -102,7 +102,9 @@ Je construis des applications d'IA pensées pour la production : assistants conv
 ## 🤝 Projets d'équipe
 
 ### 🎲 [Gaming Advisor](https://github.com/lougail/Gaming-advisor)
-*Un assistant IA pour les jeux de société : une photo de la boîte, et il guide la mise en place et répond sur les règles.*
+*Un assistant IA pour les jeux de société : une photo de la boîte, et il guide la mise en place et répond sur les règles. Réalisé à trois pendant la formation Simplon.*
+
+J'y ai écrit la première version de l'API, avant sa refonte en Clean Architecture.
 
 - Analyse des photos avec GPT-4 Vision (Azure OpenAI) et OCR des règles, recherche dans les règles par RAG (pgvector)
 - API FastAPI en Clean Architecture (DDD), SQLAlchemy asynchrone, Alembic, JWT, traitements en arrière-plan avec Redis, stockage Azure Blob
@@ -112,6 +114,8 @@ Je construis des applications d'IA pensées pour la production : assistants conv
 
 ### ⚖️ [Agent IA citoyen](https://github.com/lougail/ai-agent-with-langchain)
 *Un assistant qui répond aux questions sur les droits sociaux et administratifs, à partir de documents officiels. Réalisé à trois pendant la formation Simplon.*
+
+J'y ai développé l'interface Streamlit.
 
 - Agent LangChain avec des outils sur mesure : vérifier une éligibilité, résumer, simplifier
 - RAG sur des documents institutionnels (ChromaDB), mémoire de conversation, interface Streamlit
